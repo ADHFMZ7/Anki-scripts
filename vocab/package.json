@@ -24,7 +24,8 @@
   ],
   "dependencies": {
     "@raycast/api": "latest",
-    "@raycast/utils": "^1.16.3"
+    "@raycast/utils": "^1.16.3",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^1.0.8",
